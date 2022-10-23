@@ -1,0 +1,3 @@
+#This is the Data Preprocessing Yaml/Configuration file.
+
+data_path :  C:\\Users\\Hardik\\PycharmProjects\\iris\\iris_project\\data\\iris_data.csv
